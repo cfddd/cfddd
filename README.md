@@ -1,16 +1,26 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./header-light.svg">
+  <img alt="cfddd — Backend development, one experiment at a time." src="./header-light.svg" width="100%">
+</picture>
 
-<!--
-**cfddd/cfddd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+I build backend projects in **Java** and **Go**, and learn by turning ideas into working code.
+This is a collection of things I have built, explored, and learned along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+| Project | Exploration |
+| :--- | :--- |
+| **[MicroserviceDS](https://github.com/cfddd/MicroserviceDS)** | A Go backend for a short-video app, with user, video, and social services. |
+| **[SpringBootAppDemo](https://github.com/cfddd/SpringBootAppDemo)** | Java web development with Spring Boot and MySQL. |
+| **[gin_study](https://github.com/cfddd/gin_study)** | Small experiments with Go and the Gin web framework. |
+
+### Tools I work with
+
+`Java` &nbsp; `Go` &nbsp; `Spring Boot` &nbsp; `Gin` &nbsp; `gRPC` &nbsp; `MySQL`
+
+<br>
+
+<sub>Learning through practice. Understanding through source code.</sub>
